@@ -15,4 +15,9 @@ Fichiers principaux:
 - src/data/chapters.json : contenu découpé par chapitres
 - public/index.html : point d'entrée
 "# projet_planting_bot" 
+<<<<<<< HEAD
 "# project_ispm" 
+=======
+"# project" 
+"# project" 
+>>>>>>> 48f73e631dfd9a2d660d1b8d6a55eaff05bedeb9

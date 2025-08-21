@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
+  "dev": "vite",
+  "build": "node ./node_modules/vite/bin/vite.js build",
+  "vercel-build": "node ./node_modules/vite/bin/vite.js build",
+  "preview": "node ./node_modules/vite/bin/vite.js preview"
+ },
   "dependencies": {
     "clsx": "^1.2.1",
     "framer-motion": "^10.12.6",
@@ -16,7 +17,15 @@
   "devDependencies": {
     "autoprefixer": "^10.4.0",
     "postcss": "^8.4.0",
+<<<<<<< HEAD
     "tailwindcss": "^3.4.10",
     "vite": "^5.4.19"
+=======
+    "autoprefixer": "^10.4.0",
+    "@vercel/static-build": "^2.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+>>>>>>> 48f73e631dfd9a2d660d1b8d6a55eaff05bedeb9
   }
 }
