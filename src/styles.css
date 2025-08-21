@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom utilities */
+:root{
+  --accent: #9fd6a5;
+  --text: #0b3a28;
+}
+body { @apply bg-[color:var(--bg)] text-[color:var(--text)]; }
+.logo { @apply w-18 h-18 rounded-xl flex items-center justify-center font-bold text-white; background:linear-gradient(180deg,var(--accent), #86c48f); }

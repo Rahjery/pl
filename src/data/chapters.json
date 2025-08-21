@@ -1,0 +1,62 @@
+[
+  {
+    "id": "rem",
+    "title": "Remerciements",
+    "preview": "Remerciements et gratitude",
+    "content": "Avant tout développement sur ce projet, il apparaît opportun de commencer la version manuscrite de notre projet par des remerciements. Nous tenons d’abord à remercier avec un grand plaisir et un grand respect à notre très cher Recteur Professeur RABOANARY Julien Amédée.\n\nNous exprimons de même notre gratitude envers tous ceux qui nous ont accordé leur soutien, tant par leur gentillesse que par leur dévouement. A tous les enseignants qui nous ont aidés à la réalisation de ce projet, à nos parents, à nos camarades et à tous les membres du groupe qui ont contribué."
+  },
+  {
+    "id": "toc",
+    "title": "Tables des matières",
+    "preview": "Plan du mémoire",
+    "content": "Remerciements, Tables des matières, Introduction, Chapitres I à VI, Bibliographie."
+  },
+  {
+    "id": "intro",
+    "title": "Introduction",
+    "preview": "Contexte et objectifs du projet Planting Bot",
+    "content": "Nous rêvons tous de voir Madagascar avancer vers un développement durable et harmonieux. ...\n\nDans le cadre de notre projet universitaire en 2e année, nous avons souhaité apporter une réponse concrète à ces problématiques en concevant le Planting Bot : un robot innovant et autonome capable de planter différents types de végétaux — arbres forestiers, plantes agricoles, cultures vivrières — et d’assurer leur arrosage ciblé.\n\nNotre objectif est de proposer une solution technologique accessible, qui puisse faciliter et accélérer les campagnes de reboisement et d'agriculture durable dans toutes les régions de Madagascar."
+  },
+  {
+    "id": "i",
+    "title": "Chapitre I — Composants et Matériels",
+    "preview": "Systèmes mécanique et électronique",
+    "content": "Le projet se compose d’un système mécanique et d’un système électronique.\n\n1) Système mécanique: châssis, roues et chaînes, réservoir d’eau, réservoir de graines, perceuse, ascenseur mécanique commandé par servomoteur.\n\nFonctionnement: déplacement automatique, arrêt, perçage, dépôt de la graine, arrosage, reprise du déplacement.\n\n2) Système électronique: carte Arduino, servomoteur, moteurs DC, pompe à eau, ponts en H, transistor de puissance."
+  },
+  {
+    "id": "ii",
+    "title": "Chapitre II — Les circuits",
+    "preview": "Schémas et câblages (Tinkercad)",
+    "content": "Les schémas des circuits ont été réalisés à l’aide de Tinkercad. Schéma du servomoteur de l’ascenseur, schéma des moteurs et de l’alimentation, câblage de la pompe à eau."
+  },
+  {
+    "id": "iii",
+    "title": "Chapitre III — Les codes",
+    "preview": "Extraits de code en C++ pour Arduino",
+    "content": "Différents codes en C++ pour commander la pompe à eau, les moteurs de déplacement, le servomoteur de la perceuse. Ces codes gèrent la séquence: avancer, forer, déposer la graine, arroser, reprendre la marche."
+  },
+  {
+    "id": "iv",
+    "title": "Chapitre IV — Problèmes rencontrés",
+    "preview": "Difficultés techniques, financières et humaines",
+    "content": "Difficultés: choix du thème, disponibilité des membres, problèmes techniques (contrôle précis du servomoteur, gestion du débit de la pompe), budget, montage mécanique (alignement, tension de la chaîne), bugs logiciels et synchronisation."
+  },
+  {
+    "id": "v",
+    "title": "Chapitre V — Solutions",
+    "preview": "Mesures prises pour corriger les problèmes",
+    "content": "Solutions: meilleure organisation, suivi via groupe de discussion, tests unitaires des sous-systèmes, sélection raisonnée des composants, recherche d'aide en ligne et auprès des professeurs, financement par familles."
+  },
+  {
+    "id": "vi",
+    "title": "Chapitre VI — Conclusion",
+    "preview": "Synthèse et perspectives",
+    "content": "Rappel des objectifs et résumé des trois parties: mécanique, électronique, logicielle. Espoir que le projet serve de base pour des améliorations futures et des déploiements sur le terrain."
+  },
+  {
+    "id": "bib",
+    "title": "Bibliographie",
+    "preview": "Sources et webographie",
+    "content": "Cours dispensés à l’ISPM (Monsieur Christiano, Monsieur Michel, Monsieur Bruno, Monsieur RABOANARY Roland). Webographie: https://www.tinkercad.com/."
+  }
+]
