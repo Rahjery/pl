@@ -12,7 +12,10 @@ module.exports = {
         'xl': '12px' 
       },
       width: {
-        '18': '4.5rem' // ajout pour w-18
+        '18': '4.5rem' // classe personnalisée w-18
+      },
+      height: {
+        '18': '4.5rem' // classe personnalisée h-18
       }
     }
   },
