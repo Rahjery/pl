@@ -16,3 +16,4 @@ Fichiers principaux:
 - public/index.html : point d'entrée
 "# projet_planting_bot" 
 "# project" 
+"# project" 
