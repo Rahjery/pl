@@ -8,7 +8,12 @@ module.exports = {
         bg: '#fbfdf9',
         text: '#0b3a28'
       },
-      borderRadius: { 'xl': '12px' }
+      borderRadius: { 
+        'xl': '12px' 
+      },
+      width: {
+        '18': '4.5rem' // ajout pour w-18
+      }
     }
   },
   plugins: [],
